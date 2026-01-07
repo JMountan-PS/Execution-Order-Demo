@@ -30,6 +30,7 @@ Send Quote for signature
 - [ ] How to enforce execution order
     - [ ] Alphanumeric order
     - [ ] Test suite Files
+- [ ] Tags
 - [ ] How do we maintain good data cleanup practices
     - [ ] API cleanup
     - [ ] Apex cleanup
