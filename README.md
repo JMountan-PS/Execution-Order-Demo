@@ -28,9 +28,9 @@ Send Quote for signature
 
 ## Goals for this exercise
 - [ ] How to enforce execution order
-    - [ ] Alphanumeric order
-    - [ ] Test suite Files
-- [ ] Tags
+    - [x] Alphanumeric order
+    - [x] Test suite Files (All in one)
+- [x] Tags
 - [ ] How do we maintain good data cleanup practices
     - [ ] API cleanup
     - [ ] Apex cleanup
